@@ -3,13 +3,12 @@ https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/
 
 
 ### SQLite Installation:
-https://www.sqlite.org/download.html
 Download the Precompiled Binaries for Mac OS
+https://www.sqlite.org/download.html
 
 ### Basic SQLite Operations:
+Navigate to the folder you wish to work on and run: sqlite3
 https://www.sqlite.org/cli.html
-Navigate to the folder you wish to work on
-run: sqlite3
 
 --> to create a new schema/table with various attributes/columns
 sqlite> CREATE TABLE table_name (
