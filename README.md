@@ -1,3 +1,7 @@
+## The lectures and exercises are based on StandfordOnline course 'Databases: Relational Databases and SQL', accessible via EdX.
+## https://learning.edx.org/course/course-v1:StanfordOnline+SOE.YDB-SQL0001+2T2020/home
+
+
 ### SQLite Installation:
 https://www.sqlite.org/download.html
 Download the Precompiled Binaries for Mac OS
